@@ -9,7 +9,6 @@ palettable==3.3.0
 pandas==1.4.2
 pathy==0.6.1
 patsy==0.5.2 
-os==2.1.4
 pyresparser==1.0.6
 resume-parser==0.8.4
 scikit-image==0.18.3
@@ -35,3 +34,4 @@ pafy==0.5.5
 plotly==1.16.0
 spacy==0.4.4
 st_aggrid==0.2.3
+os==2.1.4
