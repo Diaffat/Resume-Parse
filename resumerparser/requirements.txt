@@ -23,11 +23,3 @@ streamlit-option-menu==0.3.2
 streamlit-tags==1.2.8
 tensorflow==2.9.1
 pyparsing==3.0.4
-pdfminer3==2.4.0
-io==0.2.6
-pyodbc==4.0.0
-pafy==0.5.5
-plotly==1.16.0
-spacy==0.4.4
-st_aggrid==0.2.3
-
