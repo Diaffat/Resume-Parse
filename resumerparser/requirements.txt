@@ -1,7 +1,7 @@
 click==8.0.3
 docx==0.2.4
 docx2txt==0.8 
-keras==2.9.0
+keras==2.8.0
 Keras-Preprocessing==1.1.2
 matplotlib==3.5.2
 pafy==0.5.5
