@@ -21,7 +21,6 @@ streamlit-lottie
 streamlit-option-menu
 streamlit-tags
 tensorflow
-pydoc 
 pyparsing 
 os
 st_aggrid.shared 
