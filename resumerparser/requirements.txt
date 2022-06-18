@@ -21,5 +21,5 @@ streamlit-aggrid==0.2.3.post2
 streamlit-lottie==0.0.3
 streamlit-option-menu==0.3.2
 streamlit-tags==1.2.8
-tensorflow==2.9.1
+tensorflow==2.8.0
 pyparsing==3.0.4
