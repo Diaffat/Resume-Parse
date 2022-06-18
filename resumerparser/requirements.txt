@@ -22,14 +22,12 @@ streamlit-option-menu
 streamlit-tags
 tensorflow
 pyparsing 
-os
 st_aggrid.shared 
 base64
 random
 time
 datetime 
 pdfminer3 
-io
 PIL
 pyodbc
 pafy
